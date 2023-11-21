@@ -1,0 +1,7 @@
+C:\Users\MalathumkarDurgaPras\source\repos\AppException\AppException\bin\Debug\AppException.exe.config
+C:\Users\MalathumkarDurgaPras\source\repos\AppException\AppException\bin\Debug\AppException.exe
+C:\Users\MalathumkarDurgaPras\source\repos\AppException\AppException\bin\Debug\AppException.pdb
+C:\Users\MalathumkarDurgaPras\source\repos\AppException\AppException\obj\Debug\AppException.csproj.AssemblyReference.cache
+C:\Users\MalathumkarDurgaPras\source\repos\AppException\AppException\obj\Debug\AppException.csproj.CoreCompileInputs.cache
+C:\Users\MalathumkarDurgaPras\source\repos\AppException\AppException\obj\Debug\AppException.exe
+C:\Users\MalathumkarDurgaPras\source\repos\AppException\AppException\obj\Debug\AppException.pdb
